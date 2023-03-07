@@ -3,6 +3,8 @@
 `Dockerfile` 相较于 `Dockerfile-slim` 安装了 `dig nslookup ping curl` 工具, 
 如果不需要这些工具可以使用 `Dockerfile-slim` 创建镜像包将更小
 
+[Docker 镜像地址](https://hub.docker.com/r/liwanggui/openjdk/tags)
+
 *Dockerfile*
 
 ```bash
